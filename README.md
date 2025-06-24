@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
 <tr>
   <!-- Left: Terminal Intro -->
   <td width="55%" valign="top">
