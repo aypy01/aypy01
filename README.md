@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Hello World Title -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&pause=30000&center=true&color=00FF80&size=40&width=700&lines=%3E+Hello_World!" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&pause=30000&center=true&color=00FF80&size=40&width=700&lines=%3E+hello, world!" />
 
 <!-- Social Buttons Centered -->
 <p align="center">
