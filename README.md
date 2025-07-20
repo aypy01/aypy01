@@ -60,10 +60,10 @@
 </p>
 <p align="center">
   <a href="https://youtu.be/rlRKBSS9A4Y" target="_blank">
-    <img src="https://img.youtube.com/vi/rlRKBSS9A4Y/maxresdefault.jpg" alt="Latest Video" width="425" height="200" />
+    <img src="https://img.youtube.com/vi/rlRKBSS9A4Y/maxresdefault.jpg" alt="Latest Video" width="425" height="220" />
   </a>
 </p>
-  <br />
+  
 
 
 <!--  Activity Heatmap -->
