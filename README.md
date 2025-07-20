@@ -23,7 +23,7 @@
 </div>
 
 <!-- Split into two columns using HTML table -->
-<table width="50">
+<table width="50%">
 <tr>
 
 <!-- Left: Terminal Identity -->
