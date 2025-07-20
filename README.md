@@ -57,11 +57,10 @@
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=30000&color=00FF80&size=25&width=300&lines=%3E+latest_video" />
-  <br />
 </p>
 <p align="center">
   <a href="https://youtu.be/rlRKBSS9A4Y" target="_blank">
-    <img src="https://img.youtube.com/vi/rlRKBSS9A4Y/maxresdefault.jpg" alt="Latest Video" width="425" height="225" />
+    <img src="https://img.youtube.com/vi/rlRKBSS9A4Y/maxresdefault.jpg" alt="Latest Video" width="425" height="200" />
   </a>
 </p>
   <br />
