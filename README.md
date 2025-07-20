@@ -27,7 +27,7 @@
 <tr>
 
 <!-- Left: Terminal Identity -->
-<td width="55%" valign="top" align="left">
+<td width="50%" valign="top" align="left">
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=13000&color=00FF80&size=25&width=500&lines=%3E+identity" />
@@ -53,17 +53,44 @@
 </td>
 
 <!-- Right: Latest Video -->
-<td width="45%" valign="top" align="center">
+<td width="55%%" valign="top" align="center">
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=30000&color=00FF80&size=25&width=300&lines=%3E+latest_video" />
   <br />
+</p>
+<p align="center">
   <a href="https://youtu.be/rlRKBSS9A4Y" target="_blank">
-    <img src="https://img.youtube.com/vi/rlRKBSS9A4Y/maxresdefault.jpg" alt="Latest Video" width="450" height="250" />
+    <img src="https://img.youtube.com/vi/rlRKBSS9A4Y/maxresdefault.jpg" alt="Latest Video" width="425" height="225" />
   </a>
 </p>
+  <br />
+
+
+<!--  Activity Heatmap -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&color=00FF80&size=25&width=300&lines=%3E+heat_map" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityeah18&bg_color=000000&color=00FF80&line=00FF80&point=00FF80&area=true&hide_border=true" />
+</p>
+
+
 
 </td>
 
 </tr>
 </table>
+
+
+<!-- Separate full-width table for contribution_tetris -->
+<table width="100%">
+  <tr>
+    <td align="center">    
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&center=true&color=00FF80&size=30&width=700&lines=%3E+contribution_tetris" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" /> 
+  </tr>
+</table>
+
+
+
+
