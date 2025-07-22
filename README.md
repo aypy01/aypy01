@@ -6,7 +6,7 @@
 
 <!-- Social Buttons Centered -->
 <p align="center">
-  <a href="https://github.com/aypy01?tab=repositories?tab=repositories" target="_blank">
+  <a href="https://github.com/aypy01?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Repositories-000000?style=flat&logo=github&logoColor=00FF80" alt="GitHub" style="vertical-align:middle;"/>
   </a>
   <a href="https://www.linkedin.com/in/aditya-yadav-77061a33a/" target="_blank">
