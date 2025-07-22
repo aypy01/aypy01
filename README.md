@@ -6,7 +6,7 @@
 
 <!-- Social Buttons Centered -->
 <p align="center">
-  <a href="https://github.com/Adityeah18?tab=repositories" target="_blank">
+  <a href="https://github.com/aypy01?tab=repositories?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Repositories-000000?style=flat&logo=github&logoColor=00FF80" alt="GitHub" style="vertical-align:middle;"/>
   </a>
   <a href="https://www.linkedin.com/in/aditya-yadav-77061a33a/" target="_blank">
@@ -70,7 +70,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&color=00FF80&size=25&width=300&lines=%3E+heat_map" />
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityeah18&bg_color=000000&color=00FF80&line=00FF80&point=00FF80&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aypy01&bg_color=000000&color=00FF80&line=00FF80&point=00FF80&area=true&hide_border=true" />
 </p>
 
 
