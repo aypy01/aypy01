@@ -47,7 +47,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&color=00FF80&size=25&width=300&lines=%3E+stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityeah18&show_icons=true&hide=prs,issues,contribs&title_color=00FF80&text_color=00FF80&icon_color=00FF80&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aypy01&show_icons=true&hide=prs,issues,contribs&title_color=00FF80&text_color=00FF80&icon_color=00FF80&bg_color=00000000&hide_border=true" />
 </p>
 
 </td>
