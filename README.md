@@ -27,37 +27,44 @@
 <tr>
 
 <!-- Left: Terminal Identity -->
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top" align="center">
 
-<p align="left">
+<p align="center">
+  <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=13000&color=00FF80&size=30&width=500&lines=%3E+identity" />
-  <br />
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=3000&color=00FF80&size=30&width=500&lines=Aditya+Yadav" />
-  <br />
+  </p>
+  
+  <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=14000&color=00FF80&size=30&width=500&lines=%3E+who_am_i" />
-  <br />
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=00FF80&size=30&width=500&lines=Electrical+Engineer+%3B+Builder+%3B+Self-Taught+Programmer%3B+Curiosity+%3E+Currency%3B+Old+%2B+New+Tech+Explorer%3B+Code+is+Peace" />
-  <br />
+  </p>
+
+   <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=15000&color=00FF80&size=30&width=500&lines=%3E+const_learning" />
-  <br />
+  
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=250&color=00FF80&size=30&width=500&lines=true+%E2%96%8D" />
-</p>
+  </p>
+
 
 <!-- GitHub Stats -->
 <p align="left">
+  
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&color=00FF80&size=30&width=300&lines=%3E+stats" />
-  <br />
+  
   <img src="https://github-readme-stats.vercel.app/api?username=aypy01&show_icons=true&hide=prs,issues,contribs&title_color=00FF80&text_color=00FF80&icon_color=00FF80&bg_color=00000000&hide_border=true" />
 </p>
-
+</p>
 </td>
 
 <!-- Right: Latest Video -->
 <td width="50%%" valign="top" align="center">
 
 <p align="left">
+  
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=30000&color=00FF80&size=30&width=300&lines=%3E+latest_video" />
 </p>
+
 <p align="center">
   <a href="https://youtu.be/rlRKBSS9A4Y" target="_blank">
     <img src="https://img.youtube.com/vi/rlRKBSS9A4Y/maxresdefault.jpg" alt="Latest Video" width="400" height="200" />
@@ -65,8 +72,9 @@
 </p>
   
 
-
+<br>
 <!--  Activity Heatmap -->
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&color=00FF80&size=30&width=300&lines=%3E+heat_map" />
 <p align="center">
