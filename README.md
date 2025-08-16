@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Hello World Title -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&pause=30000&center=true&color=00FF80&size=40&width=700&lines=%3E+hello,+world!" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&pause=30000&center=true&color=00FF80&size=45&width=700&lines=%3E+hello,+world!" />
 
 <!-- Social Buttons Centered -->
 <p align="center">
@@ -30,22 +30,22 @@
 <td width="50%" valign="top" align="left">
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=13000&color=00FF80&size=25&width=500&lines=%3E+identity" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=13000&color=00FF80&size=30&width=500&lines=%3E+identity" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=3000&color=00FF80&size=25&width=500&lines=Aditya+Yadav" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=3000&color=00FF80&size=30&width=500&lines=Aditya+Yadav" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=14000&color=00FF80&size=25&width=500&lines=%3E+who_am_i" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=14000&color=00FF80&size=30&width=500&lines=%3E+who_am_i" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=00FF80&size=25&width=500&lines=Electrical+Engineer+%3B+Builder+%3B+Self-Taught+Programmer%3B+Curiosity+%3E+Currency%3B+Old+%2B+New+Tech+Explorer%3B+Code+is+Peace" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=00FF80&size=30&width=500&lines=Electrical+Engineer+%3B+Builder+%3B+Self-Taught+Programmer%3B+Curiosity+%3E+Currency%3B+Old+%2B+New+Tech+Explorer%3B+Code+is+Peace" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=15000&color=00FF80&size=25&width=500&lines=%3E+const_learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=15000&color=00FF80&size=30&width=500&lines=%3E+const_learning" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=250&color=00FF80&size=25&width=500&lines=true+%E2%96%8D" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=250&color=00FF80&size=30&width=500&lines=true+%E2%96%8D" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&color=00FF80&size=25&width=300&lines=%3E+stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&color=00FF80&size=30&width=300&lines=%3E+stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=aypy01&show_icons=true&hide=prs,issues,contribs&title_color=00FF80&text_color=00FF80&icon_color=00FF80&bg_color=00000000&hide_border=true" />
 </p>
@@ -56,7 +56,7 @@
 <td width="50%%" valign="top" align="center">
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=30000&color=00FF80&size=25&width=300&lines=%3E+latest_video" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=30000&color=00FF80&size=30&width=300&lines=%3E+latest_video" />
 </p>
 <p align="center">
   <a href="https://youtu.be/rlRKBSS9A4Y" target="_blank">
@@ -68,7 +68,7 @@
 
 <!--  Activity Heatmap -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&color=00FF80&size=25&width=300&lines=%3E+heat_map" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&color=00FF80&size=30&width=300&lines=%3E+heat_map" />
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aypy01&bg_color=000000&color=00FF80&line=00FF80&point=00FF80&area=true&hide_border=true" />
 </p>
