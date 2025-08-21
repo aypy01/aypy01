@@ -43,7 +43,7 @@
    <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=15000&color=00FF80&size=30&width=500&lines=%3E+const_learning" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=250&color=00FF80&size=30&width=500&lines=true+%E2%96%8D" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=250&color=00FF80&size=30&width=500&lines=True+%E2%96%8D" />
   </p>
 
 
