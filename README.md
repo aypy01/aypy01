@@ -66,8 +66,8 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/rlRKBSS9A4Y" target="_blank">
-    <img src="https://img.youtube.com/vi/rlRKBSS9A4Y/maxresdefault.jpg" alt="Latest Video" width="400" height="200" />
+  <a href="https://youtu.be/nTTiZJL9XDk" target="_blank">
+    <img src="https://img.youtube.com/vi/nTTiZJL9XDk/maxresdefault.jpg" alt="Latest Video" width="400" height="200" />
   </a>
 </p>
   
