@@ -77,7 +77,7 @@
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&color=00FF80&size=30&width=300&lines=%3E+heat_map" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aypy01&bg_color=000000&color=00FF80&line=00FF80&point=00FF80&area=true&hide_border=true" />
 </p>
