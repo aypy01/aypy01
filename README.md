@@ -93,10 +93,13 @@
 <!-- Separate full-width table for contribution_tetris -->
 <table width="100%">
   <tr>
-    <td align="center">    
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&center=true&color=00FF80&size=30&width=700&lines=%3E+contribution_tetris" />
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" /> 
-  </tr>
+  <td align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&center=true&color=00FF80&size=30&width=700&lines=%3E+contribution_space_shooter" />
+    <br>
+    <img src="https://raw.githubusercontent.com/aypy01/aypy01/main/game.gif" />
+  </td>
+</tr>
+
 </table>
 
 
