@@ -94,7 +94,7 @@
 <table width="100%">
   <tr>
   <td align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&center=true&color=00FF80&size=30&width=700&lines=%3E+"space_shooter" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10000&center=true&color=00FF80&size=30&width=700&lines=%3E+space_shooter"/>
     <br>
     <img src="https://raw.githubusercontent.com/aypy01/aypy01/main/game.gif" />
   </td>
