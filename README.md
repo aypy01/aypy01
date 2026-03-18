@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/aditya-yadav-77061a33a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=00FF80" alt="LinkedIn" style="vertical-align:middle;"/>
   </a>
-  <a href="https://www.youtube.com/@Aypy27" target="_blank">
+  <a href="https://youtube.com/@aypy01?si=fQq3s7j7a8VspgHa" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-000000?style=flat&logo=youtube&logoColor=00FF80" alt="YouTube" style="vertical-align:middle;"/>
   </a>
   <a href="mailto:yadav.aditya595@gmail.com" target="_blank">
